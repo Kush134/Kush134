@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open source and Front End Web Devlopment.
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about Data structures and Algorithms
-- 📫 How to reach me: adityasingh10042@gmail.com
+- 📫 How to reach me: kushsah42@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Can You beat me in CS-GO ? 😁
