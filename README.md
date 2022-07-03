@@ -1,4 +1,4 @@
-[![MasterHead](https://dribbble.com/chipp/collections/572323-coding-gifs)](https://kushbhargav.xyz)
+[![MasterHead](https://dribbble.com/chipp/collections/572323-coding-gifs)](https://kush134.io)
 
 <h1 align="center">Hi 👋, I'm Kush bhargav sah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
