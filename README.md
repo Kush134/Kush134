@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**Kush134/Kush134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A passionate Frontend Developer , Competitive Programmer and Machine Learning Enthusiast
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Portfolio Website
+- 🌱 I’m currently learning about Backend and API's
+- 👯 I’m looking to collaborate on Open source and Front End Web Devlopment.
+- 🤔 I’m looking for help with Android Development
+- 💬 Ask me about Data structures and Algorithms
+- 📫 How to reach me: adityasingh10042@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Can You beat me in CS-GO ? 😁
