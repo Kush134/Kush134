@@ -22,6 +22,8 @@
 
 - 📫 How to reach me **kushsah42@gmail.com**
 
+[![Kush's GitHub | Stats](https://stats.quine.sh/Kush/github?theme=light)](https://quine.sh)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
