@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/sahbhargav" target="blank"><img src="https://img.shields.io/twitter/follow/sahbhargav?logo=twitter&style=for-the-badge" alt="sahbhargav" /></a> </p>
 
+[![Kush's Web3 | Identity](https://stats.quine.sh/Kush/web3?theme=light)](https://quine.sh)
+
 - 🔭 I’m currently working on [working on my Portfolio Website](kushbhargav.xyz)
 
 - 🌱 I’m currently learning **Backend and API's**
