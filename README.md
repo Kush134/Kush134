@@ -26,7 +26,7 @@
 
 [![Kush's GitHub | Stats](https://stats.quine.sh/Kush/github?theme=dark)](https://quine.sh)
 
-[![Kush's GitHub | Languages Over Time](https://stats.quine.sh/Kush/languages-over-time?theme=light)](https://quine.sh)
+[![Kush's GitHub | Languages Over Time](https://stats.quine.sh/Kush/languages-over-time?theme=dark)](https://quine.sh)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
