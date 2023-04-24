@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **kushsah42@gmail.com**
 
-[![Kush's GitHub | Stats](https://stats.quine.sh/Kush/github?theme=light)](https://quine.sh)
+[![Kush's GitHub | Stats](https://stats.quine.sh/Kush/github?theme=dark)](https://quine.sh)
 
 [![Kush's GitHub | Languages Over Time](https://stats.quine.sh/Kush/languages-over-time?theme=light)](https://quine.sh)
 
