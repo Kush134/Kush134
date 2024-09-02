@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Backend and API's**
 
-- 👯 I’m looking to collaborate on **Open source and Front End Web Devlopment.**
+- 👯 I’m looking to collaborate on **Open source and Innovative Ideas.**
 
 - 🤝 I’m looking for help with **Android Development**
 
