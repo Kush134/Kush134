@@ -18,8 +18,6 @@
 
 - 👨‍💻 All of my projects are available at [kushbhargav.xyz](kushbhargav.xyz)
 
-  ***
-
 - 📝 I regularly write articles on [medium.com/@kushsah42](medium.com/@kushsah42)
 
 - 💬 Ask me about **Data structures and Algorithms**
