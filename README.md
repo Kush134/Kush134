@@ -8,7 +8,7 @@
 
 [![Kush's Web3 | Identity](https://stats.quine.sh/Kush/web3?theme=light)](https://quine.sh)
 
-- 🔭 I’m currently working on **AR/VR Development**
+- 🔭 I’m currently working on **Unity AR/VR Development**
 
 - 🌱 I’m currently learning **Backend and API's**
 
