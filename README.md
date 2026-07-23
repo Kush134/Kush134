@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:58a6ff&height=200&section=header&text=Kush%20Bhargav%20Sah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Hackathon%20Champion%20%7C%20%231%20on%20Devfolio&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:58a6ff&height=200&section=header&text=Kush%20Bhargav%20Sah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%40%20Tata%20Technologies%20%7C%20Hackathon%20Champion%20%7C%20%231%20on%20Devfolio&descAlignY=58&descSize=16"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=🤖+AI+Engineer+%26+ML+Architect;🏆+Serial+Hackathon+Winner;🥇+%231+Ranked+Developer+on+Devfolio;🕶️+Building+AR%2FVR+Experiences+in+Unity;🌐+Open+Source+Contributor+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=🤖+AI+Engineer+%40+Tata+Technologies;🏆+International+%26+National+Hackathon+Champion;🥇+%231+Ranked+Developer+on+Devfolio;✈️+Building+AI+for+Aviation+%26+MRO+Industry;🕶️+AR%2FVR+on+Pico+4+Ultra+%7C+Unity+%7C+Spark+AR;🧠+RAG+%7C+Agentic+AI+%7C+LLM+Fine-tuning" alt="Typing SVG" />
 </a>
 
 <!-- Badges Row -->
@@ -13,37 +13,42 @@
   <img src="https://komarev.com/ghpvc/?username=kush134&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile views" />
   <a href="https://twitter.com/sahbhargav"><img src="https://img.shields.io/twitter/follow/sahbhargav?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" /></a>
   <img src="https://img.shields.io/badge/Devfolio-Rank%20%231-FFD700?style=for-the-badge&logo=devfolio&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Hackathons-Multiple%20Winner-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Hackathons-14%2B%20Wins-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Tata%20Technologies-AI%20Engineer-0078D4?style=for-the-badge&logo=tata&logoColor=white&labelColor=0d1117" />
 </p>
 
 </div>
 
 ---
 
-<!-- About Me Matrix Section -->
-<img align="right" alt="AI Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- About Me Code Block -->
+<img align="right" alt="AI Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class KushBhargavSah:
-    
+
     def __init__(self):
-        self.name         = "Kush Bhargav Sah"
-        self.role         = "AI Engineer 🤖"
-        self.rank         = "#1 on Devfolio 🥇"
-        self.achievements = ["Serial Hackathon Winner 🏆",
-                             "AR/VR Developer 🕶️",
-                             "Open Source Contributor 🌐"]
-        self.current      = ["Unity AR/VR", "LLM Fine-tuning",
-                             "Backend APIs", "MLOps"]
-        self.languages    = ["Python", "C++", "TypeScript",
-                             "Dart", "Rust"]
-        self.contact      = "kushsah42@gmail.com"
-    
-    def say_hi(self):
-        print("Let's build something that breaks the internet! 🚀")
+        self.name      = "Kush Bhargav Sah"
+        self.role      = "AI Engineer @ Tata Technologies ✈️"
+        self.rank      = "#1 on Devfolio 🥇"
+        self.education = "B.Tech CS — SRM University (GPA: 8.9/10)"
+        self.domain    = ["Agentic AI", "RAG Systems", "AR/VR",
+                          "LLM Fine-tuning", "Aviation AI"]
+        self.stack     = ["Python", "C#", "C++", "Swift",
+                          "React.js", "Flutter", "Unity"]
+        self.cloud     = ["Azure", "Oracle Cloud", "AWS S3"]
+        self.wins      = "14+ Hackathon Wins 🏆 (Intl + National)"
+        self.contact   = "kushsah42@gmail.com"
+
+    def current_mission(self):
+        return """
+        → Building RAG + Semantic Search for airline MRO 🛠️
+        → AR/VR Aircraft Inspection on Pico 4 Ultra 🕶️
+        → Agentic AI for maintenance decision workflows 🤖
+        """
 
 me = KushBhargavSah()
-me.say_hi()
+print(me.current_mission())
 ```
 
 <br clear="both"/>
@@ -53,11 +58,110 @@ me.say_hi()
 <!-- Trophy Section -->
 <div align="center">
 
-## 🏆 Trophy Cabinet
+## 🏆 GitHub Trophy Cabinet
 
 <img src="https://github-profile-trophy.vercel.app/?username=kush134&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 
 </div>
+
+---
+
+<!-- Experience Section -->
+<div align="center">
+
+## 💼 Professional Experience
+
+</div>
+
+### 🏢 Tata Technologies — AI Engineer / Software Developer
+**Feb 2024 – Present | India**
+
+| Project | Tech | Impact |
+|---|---|---|
+| ✈️ **RAG + Semantic Search Chatbot** | RAG, Vector DB, LLMs, Azure | 60% faster diagnostics, reduced aircraft turnaround time |
+| 🤖 **Agentic AI Maintenance System** | Agentic AI, Domain LLMs, Vector DB | Automated reasoning for MRO decision support |
+| 📱 **Flutter Smart MRO Inspection App** | Flutter, IoT, APIs | 30% reduction in on-site inspection time |
+| 🛡️ **IoT Smart Helmet & Jacket Suite** | IoT, Real-time streaming | Modernized airline inspection & MRO processes |
+| 🕶️ **AR/VR Aircraft Inspection — Pico 4 Ultra** | Unity, AR/VR, AI Detection | AI-based dent/scratch mapping, real-time defect traceability |
+
+### 🌿 Wall of Gardens — Full Stack Developer
+**Jan 2022 – Aug 2022 | Onsite**
+- Integrated AR into ecommerce platform → **30% engagement increase**
+- Improved UI/UX → **10% conversion boost**
+
+---
+
+<!-- Hackathon Wins -->
+<div align="center">
+
+## 🏅 Hackathon Hall of Fame
+
+</div>
+
+<div align="center">
+
+| 🥇 Position | 🏆 Competition | 📅 Year |
+|:---:|:---|:---:|
+| 🌍 **International Winner** | DComm VALHALLA International Hackathon | 2023 |
+| 🇮🇳 **National Winner** | Tata Innovent Hackathon | 2023 |
+| 🇮🇳 **National Winner** | HackSphere — BITS Pilani | 2023 |
+| 🇮🇳 **National Winner** | Bug Byte League Hackathon | 2023 |
+| 🏆 **State Winner** | Forensic Science Hackathon (NFU) | 2023 |
+| 🥈 **Runner-Up** | SRM Mentorathon Hackathon | 2023 |
+| 🥈 **Runner-Up** | Tech-A-Thon — IIC SRCASW | 2023 |
+| 🥈 **Runner-Up** | Syntax Error Hackathon — IIT Roorkee | 2023 |
+| 🏫 **College Winner** | Layer Hackathon — SRMIST | 2023 |
+| 🎖️ **Award Winner** | Best Lens — Facebook AR (Meta & Reskilll) | 2023 |
+| 🏫 **College Winner** | Optum Hackathon | 2022 |
+| 🥈 **Runner-Up** | DS Hack — SRMIST | 2022 |
+| 🥈 **Runner-Up** | Adobe Hackathon | 2019 |
+| 🌏 **State Winner** | International Flutter Hackathon | 2019 |
+
+</div>
+
+---
+
+<!-- Projects -->
+<div align="center">
+
+## 🚀 Signature Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+### 📐 METRICS — iOS + AR
+**Dec 2023**
+
+Image-to-3D AR model generation pipeline achieving **95% accuracy**. Built for iOS with native AR capabilities.
+
+`Swift` `ARKit` `CoreML` `iOS`
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 CODIE — AI Interview Assistant
+**Jun 2023**
+
+AI-powered Chrome extension for interview prep. Delivered a **40% engagement increase** from launch.
+
+`Python` `Chrome Extension` `LLM` `JS`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎬 STEALTH AI — Video Intelligence
+**Sep 2022**
+
+Video platform with AI summaries, voice search, and sentiment analysis — end-to-end NLP pipeline.
+
+`Python` `NLP` `Whisper` `Sentiment AI`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,18 +173,33 @@ me.say_hi()
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kush134&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=6e40c9&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush134&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kush134&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=58a6ff&fire=FF6B6B&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=58a6ff" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kush134&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=58a6ff&fire=FF6B6B&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=58a6ff" />
 </div>
 
 ---
 
-<!-- AI/ML Skills Matrix -->
+<!-- Certifications -->
 <div align="center">
 
-## 🤖 AI / ML Arsenal
+## 📜 Certifications
+
+![AWS GenAI](https://img.shields.io/badge/AWS-Generative%20AI%20Developer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-Certified%20Associate%20Game%20Developer-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Oracle AI](https://img.shields.io/badge/Oracle-AI%20Vector%20Search-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![OCI AI](https://img.shields.io/badge/Oracle-OCI%20AI%20Professional%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![OCI DS](https://img.shields.io/badge/Oracle-OCI%20Data%20Science%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS DS](https://img.shields.io/badge/AWS-Academy%20Data%20Science-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google DA](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
+
+<!-- Skills Matrix -->
+<div align="center">
+
+## 🛠️ Tech Arsenal
 
 </div>
 
@@ -88,13 +207,14 @@ me.say_hi()
 <tr>
 <td valign="top" width="33%">
 
-### 🧠 AI & Machine Learning
+### 🧠 AI / ML & Agentic
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -103,20 +223,20 @@ me.say_hi()
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
 ### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 </td>
 </tr>
@@ -126,27 +246,25 @@ me.say_hi()
 <tr>
 <td valign="top" width="50%">
 
-### 🌐 Full Stack Development
+### 🌐 Full Stack & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
-### 🗄️ Databases & Data
+### 🗄️ Databases & Vector Stores
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-6e40c9?style=for-the-badge&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20AI%20Vector-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
 
 </td>
 </tr>
@@ -165,30 +283,14 @@ me.say_hi()
 
 ---
 
-<!-- Hackathon & Achievements -->
-<div align="center">
-
-## 🏅 Achievements & Recognition
-
-| 🥇 Achievement | 📋 Details |
-|:---:|:---:|
-| 🏆 **Devfolio Rank #1** | Top-ranked developer on Devfolio platform |
-| 🎯 **Serial Hackathon Winner** | Multiple hackathon victories across domains |
-| 🤖 **AI Engineer** | Specializing in LLMs, CV & Generative AI |
-| 🕶️ **AR/VR Developer** | Unity-based immersive experience builder |
-| 📝 **Technical Writer** | Published articles on Medium |
-| 🧮 **DSA Expert** | Proficient in Data Structures & Algorithms |
-
-</div>
-
----
-
-<!-- Web3 & Quine Stats -->
+<!-- Web3 Stats -->
 <div align="center">
 
 ## ⚡ Web3 & Open Source Impact
 
 [![Kush's Web3 | Identity](https://stats.quine.sh/Kush/web3?theme=dark)](https://quine.sh)
+
+[![Kush's GitHub | Languages Over Time](https://stats.quine.sh/Kush/languages-over-time?theme=dark)](https://quine.sh)
 
 </div>
 
@@ -199,11 +301,11 @@ me.say_hi()
 
 ## 🌐 Let's Connect & Collaborate
 
-*Open to collabs on AI/ML, AR/VR, and open-source projects that push boundaries*
+*Open to AI/ML projects, AR/VR collabs, and anything that pushes the frontier*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kushbhargav.xyz-6e40c9?style=for-the-badge&logo=Firefox&logoColor=white)](https://kushbhargav.xyz)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kushsah42)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kush-sah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushbhargav)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahbhargav)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushsah42@gmail.com)
@@ -229,5 +331,5 @@ me.say_hi()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:58a6ff,100:0d1117&height=120&section=footer"/>
 
 <div align="center">
-  <i>⚡ "The best way to predict the future is to build it with AI." ⚡</i>
+  <i>⚡ "Building AI that keeps aircraft in the sky and ideas out of the box." ⚡</i>
 </div>
