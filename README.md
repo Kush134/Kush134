@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:58a6ff&height=200&section=header&text=Kush%20Bhargav%20Sah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%40%20Tata%20Technologies%20%7C%20Hackathon%20Champion%20%7C%20%231%20on%20Devfolio&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:58a6ff&height=220&section=header&text=Kush%20Bhargav%20Sah&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%40%20Tata%20Technologies%20%7C%2014x%20Hackathon%20Champion%20%7C%20%231%20on%20Devfolio&descAlignY=55&descSize=16"/>
 
-<!-- Typing Animation — emoji-free for reliability -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%40+Tata+Technologies;International+%26+National+Hackathon+Champion;%231+Ranked+Developer+on+Devfolio;Building+AI+for+Aviation+%26+MRO+Industry;AR%2FVR+on+Pico+4+Ultra+%7C+Unity+%7C+Spark+AR;RAG+%7C+Agentic+AI+%7C+LLM+Fine-tuning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%40+Tata+Technologies;Building+Agentic+AI+for+Aviation+%26+MRO;RAG+%2B+Semantic+Search+%7C+LLM+Fine-tuning;AR%2FVR+on+Pico+4+Ultra+%7C+Unity+%7C+Spark+AR;%231+Ranked+Developer+on+Devfolio;14%2B+International+%26+National+Hackathon+Wins" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <!-- About Me Code Block -->
 <img align="right" alt="AI Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -57,17 +57,23 @@ print(me.current_mission())
 
 <br clear="both"/>
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=760&lines=%3E+booting+agentic_ai_engine.py...;%3E+loading+rag_pipeline+%2B+vector_index...;%3E+connecting+to+aviation_mro_systems...;%3E+status%3A+mission_ready" alt="terminal boot animation"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <div align="center">
 
-## GitHub  Trophy Cabinet
+## GitHub Trophy Cabinet
 
 <img src="https://github-profile-trophy.vercel.app/?username=kush134&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <div align="center">
 
@@ -78,9 +84,19 @@ print(me.current_mission())
 
 <img src="https://streak-stats.demolab.com/?user=kush134&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6e40c9&ring=58a6ff&fire=FF6B6B&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=58a6ff" />
 
+### Live Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kush134/kush134/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kush134/kush134/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/kush134/kush134/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>Powered by a one-time GitHub Action — setup file provided below.</sub>
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <div align="center">
 
@@ -105,7 +121,7 @@ print(me.current_mission())
 - Integrated AR into ecommerce platform — **30% engagement increase**
 - Improved UI/UX — **10% conversion boost**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <div align="center">
 
@@ -130,7 +146,7 @@ print(me.current_mission())
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <div align="center">
 
@@ -173,7 +189,7 @@ Video platform with AI summaries, voice search, and sentiment analysis — end-t
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <div align="center">
 
@@ -189,81 +205,41 @@ Video platform with AI summaries, voice search, and sentiment analysis — end-t
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <div align="center">
 
 ## Tech Arsenal
 
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
 ### AI / ML & Agentic
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white" />
 
-</td>
-<td valign="top" width="33%">
+<br/><br/>
 
 ### AR / VR & Systems
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,swift,blender,dotnet&theme=dark" />
 
-</td>
-<td valign="top" width="33%">
+<br/><br/>
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=azure,docker,linux,firebase&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
 
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+<br/><br/>
 
 ### Full Stack & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,django,graphql&theme=dark" />
 
-</td>
-<td valign="top" width="50%">
+<br/><br/>
 
 ### Databases & Vector Stores
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle Vector](https://img.shields.io/badge/Oracle%20AI%20Vector-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,cassandra&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Oracle%20AI%20Vector-F80000?style=flat-square&logo=oracle&logoColor=white" />
 
-</td>
-</tr>
-</table>
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <div align="center">
 
@@ -273,7 +249,7 @@ Video platform with AI summaries, voice search, and sentiment analysis — end-t
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:58a6ff&height=4"/>
 
 <div align="center">
 
@@ -302,8 +278,6 @@ Video platform with AI summaries, voice search, and sentiment analysis — end-t
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kushsah)
 
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:58a6ff,100:0d1117&height=120&section=footer"/>
 
